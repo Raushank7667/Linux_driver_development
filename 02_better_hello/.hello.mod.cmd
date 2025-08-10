@@ -1,0 +1,1 @@
+savedcmd_/home/pi/Programming/Linux_driver_development/02_better_hello/hello.mod := printf '%s\n'   hello.o | awk '!x[$$0]++ { print("/home/pi/Programming/Linux_driver_development/02_better_hello/"$$0) }' > /home/pi/Programming/Linux_driver_development/02_better_hello/hello.mod

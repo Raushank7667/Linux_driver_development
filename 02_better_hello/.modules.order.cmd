@@ -1,0 +1,1 @@
+savedcmd_/home/pi/Programming/Linux_driver_development/02_better_hello/modules.order := {   echo /home/pi/Programming/Linux_driver_development/02_better_hello/hello.o; :; } > /home/pi/Programming/Linux_driver_development/02_better_hello/modules.order
