@@ -1,1 +1,0 @@
-savedcmd_/home/pi/Programming/Linux_driver_development/02_better_hello/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/pi/Programming/Linux_driver_development/02_better_hello/Module.symvers -T /home/pi/Programming/Linux_driver_development/02_better_hello/modules.order -i Module.symvers -e 
